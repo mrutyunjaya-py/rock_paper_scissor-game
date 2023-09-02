@@ -1,4 +1,3 @@
-
 import random
 a = ["rock","paper","scissor"]
 b = None
@@ -19,3 +18,5 @@ elif b == "scissor" and c == "paper":
     print("you wins!! ")
 else:
     print("you loss !!")
+    
+print("Thank you for playing the game")
